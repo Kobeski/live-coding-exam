@@ -1,0 +1,96 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.page-1{
+background-color: #f5f7fa;
+padding-bottom: 100px;
+}
+
+.clients{
+    width: 17%;
+    margin: auto;
+}
+
+.com{
+    width: 44%;
+    margin: auto;
+}
+
+.sys{
+    width: 30%;
+margin: auto;
+}
+
+.size{
+    font-size: 12px;
+}
+
+.lorem{
+font-size: 12px;
+}
+.footer-1{
+    background-color: #f5f7fa;
+    width: 100%;
+    text-wrap: 100%;
+}
+
+.right-foot-1{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+.members{
+    display: flex;
+    flex-direction: column;
+}
+.clubs{
+    display: flex;
+    flex-direction: column;
+}
+.EventBookings{
+    display: flex;
+    flex-direction: column;
+}
+.payments{
+    display: flex;
+    flex-direction: column;
+}
+.background-colour{
+    background-color: #f5f7fa;
+    /* min-width: 100%; */
+   
+}
+
+.footer{
+    margin: auto;
+    width: 35%;
+}
+
+.last-footer{
+    background-color: #000;
+    color: #fff;
+}
+.blue-border{
+    border: solid blue;
+    width:100%;
+   
+   
+}
+
+.jki{
+    background-color: blue;
+    display: inline-block;
+}
+.p-1{
+    background-color: #333;
+    
+   
+}
+.foote{
+width: 20%;
+margin: auto;
+}
